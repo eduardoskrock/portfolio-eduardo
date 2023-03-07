@@ -1,0 +1,37 @@
+#section5{
+
+    max-width: 1400px;
+    margin-top: 20px;
+}
+
+
+.container-title{
+    max-width: 1400px;
+    display: flex;
+    padding-top: 20px;
+    
+}
+
+.title-right-side{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.title-left-side.section5{
+    width: 50%; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.description-text{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}

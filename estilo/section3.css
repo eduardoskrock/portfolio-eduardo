@@ -1,0 +1,100 @@
+#section3{
+    max-width: 1300px;
+}
+
+
+.line{
+    margin-top: 30px;
+    background: #272940;
+    width: 1200px;
+    height: 10px;
+    margin-left: 0;
+}
+
+.line2{
+    margin-top: 30px;
+    background: #272940;
+    width: 900px;
+    height: 10px;
+    margin-left: 0;
+}
+
+.line3{
+    margin-top: 30px;
+    background: #272940;
+    width: 600px;
+    height: 10px;
+    margin-left: 0;
+}
+
+.before-title-box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.line4{
+    margin-top: 30px;
+    background: #272940;
+    width: 300px;
+    height: 10px;
+    margin-left: 0;
+}
+
+.line4{
+    margin-top: 30px;
+    background: #272940;
+    width: 300px;
+    height: 10px;
+    margin-left: 0;
+}
+
+
+.before-title3{
+    color: #36DE97;
+    font-family: 'Poppins';
+    font-size: 1.8rem;
+}
+
+.card-description.card-3{
+    margin-left: 0;
+}
+.box3{
+    padding-bottom: 100px;
+}
+
+.title-section3{
+    display: flex;
+    align-items: center;
+}
+
+.infos-university{
+    width: 900px;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    margin-right: 0;
+}
+
+.card-university{
+    max-width: 1200px;
+    display: flex;
+    background: #130B29;
+    box-shadow: 10px 10px 20px 2px rgba(0, 0, 0, 0.15);
+    border-radius: 20px;
+    height: 200px;
+
+}
+
+.title-card3{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+
+.img-university{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
